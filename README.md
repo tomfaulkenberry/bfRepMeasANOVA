@@ -1,6 +1,6 @@
 ## Estimating Bayes factors from minimal summary statistics in RM ANOVA
 
-This repository contains materials related to my paper "[Estimating Bayes factors from minimal summary statistics in repeated measures analysis of variance design](https://arxiv.org/abs/1905.05569)", currently in revision.
+This repository contains materials related to my paper "[Estimating Bayes factors from minimal summary statistics in repeated measures analysis of variance design](https://arxiv.org/abs/1905.05569)", to appear in *Metodoloski Zvezki: Advances in Methodology and Statistics*
 
 Specifically, there are two things you might want to see here:
 - the paper's source files (in the "[paper](paper/)" section)
